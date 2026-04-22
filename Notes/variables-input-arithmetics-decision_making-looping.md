@@ -34,3 +34,10 @@ As you combine these basic building blocks, a few standard patterns emerge:
 * **The Accumulator (Running Totals):** If you want to find the sum of many numbers, you start by creating a variable set to zero outside of a loop (e.g., `total = 0`). Inside the loop, you repeatedly update that variable by adding the new number to the old total (`total = total + new_number`).
 * **Nesting:** You can place structures inside of other structures. A very common pattern is putting an `if` statement *inside* a loop. This allows the program to look at a large list of items one by one, and only take action on the ones that meet a certain condition.
 * **Variable Swapping:** Sometimes you need to pass values forward sequentially (like generating the Fibonacci sequence). This involves temporarily holding a value, calculating the next step, and then reassigning your variables so they are ready for the next cycle of the loop.
+
+The `map()` function applies a specific operation to every item in a collection, efficiently returning a sequence of modified results without needing a manual loop.
+
+**Syntax:**
+```python
+result = list(map(function, iterable))
+```
