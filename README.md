@@ -1,4 +1,4 @@
-<img alt="Python Zero 2 Hero Banner" src="https://photos.google.com/photo/AF1QipNv5bqDZ8EogRdbgEoqdvno674fnALkV6B1QRGB" />
+<img alt="Python Zero 2 Hero Banner" src="https://photos.app.goo.gl/aduWa8WSWaw1R9uE9/Zero 2 Hero.png" />
 
 # Python Zero 2 Hero
 ## Topic Wise Selection
