@@ -1,0 +1,10 @@
+1. Start
+2. input no. of numbers to n
+3. initialize sum = 0, count = 1
+4. input number{count} to i
+5. add i to sum
+6. add 1 to count
+7. if count <= n goto step 4
+8. divide sum with n and store to avg
+9. print avg
+10. Stop

@@ -1,0 +1,5 @@
+1. Start
+2. input 2 numbers to a and b
+3. sum = a+b
+4. Display sum
+5. Stop

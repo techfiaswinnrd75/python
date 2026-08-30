@@ -1,0 +1,5 @@
+1. Start
+2. Input 2 numbers to a and b
+3. assign diff = a - b
+4. Display diff
+5. Stop
