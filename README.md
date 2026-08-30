@@ -99,7 +99,7 @@
 1. [Notes](/Part%2012/Lists.md)
 2. [Video Notes](/Part%2012/lists.py)
 
-### **Day 13:** [The List Manipulation Part 2]
+### **Day 13:** [The List Manipulation Part 2](/Part%2013/)
 
 1. [Notes](/Part%2013/List%20Functions.md)
 2. [Video Notes](/Part%2013/list%20functions.py)
